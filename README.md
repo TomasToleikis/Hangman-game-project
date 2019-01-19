@@ -8,6 +8,7 @@ When the quess is wrong, the symbol art of gallows is displayed - creating a han
 There are 2 mode of game: 
 - GALLOWS, which displays gallows symbol with a hangman forming in it (this mode allows 6 mistakes).
 - CHRISTMAS TREE, which displays Christmas tree symbol with toys disapearing from it (this mode allows 7 mistakes).
+
 At the beginning the game provides a hint - another random word and indicates how many common letters the words share.
 
 # Requirements
